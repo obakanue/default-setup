@@ -87,3 +87,8 @@ set shiftwidth=4
 set softtabstop=4
 " Expand TABs to spaces
 set expandtab
+
+" Vim theme
+syntax enable
+set background=dark
+colorscheme solarized
