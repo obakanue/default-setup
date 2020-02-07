@@ -73,7 +73,7 @@ set smartcase
 set showmatch
 
 " Whitespace
-"--------------------------------------------------------
+"-------------------------------------------------------
 set wrap
 set textwidth=79
 set formatoptions=tcqrn1
