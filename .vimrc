@@ -20,8 +20,6 @@ Plugin 'jiangmiao/auto-pairs'
 Plugin 'junegunn/fzf'
 " Display thin vertical lines at each indentation level
 Plugin 'yggdroot/indentline'
-" More syntax check
-Plugin 'scrooloose/syntastic'
 " Statusline
 Plugin 'bling/vim-airline'
 "Precision colorscheme
