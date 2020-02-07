@@ -69,6 +69,9 @@ set showcmd
 set ignorecase
 set smartcase
 set showmatch
+" Visualize indentations
+let g:indentLine_char = '┊'
+:set list lcs=tab:\|\
 
 " Whitespace
 "-------------------------------------------------------
